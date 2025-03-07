@@ -1,19 +1,19 @@
-# Olá, eu sou Rafael Andrade 👋
+# Hi, I’m Rafael Andrade 👋
 
-Sou Cientista de Dados em Formação, com foco em **Machine Learning**, **Engenharia de Dados** e **Análise de Dados**. Tenho experiência com Python, Pandas, NumPy, Scikit-Learn, TensorFlow e outras ferramentas avançadas para manipulação e análise de dados. Estou comprometido em aplicar conhecimentos técnicos e soluções inovadoras para transformar dados em insights valiosos e resolver problemas complexos nas empresas.
+## I’m a Data Scientist in training, with a focus on Machine Learning, Data Engineering, and Data Analysis. I have experience with Python, Pandas, NumPy, Scikit-Learn, TensorFlow, and other advanced tools for data manipulation and analysis. I am committed to applying technical knowledge and innovative solutions to transform data into valuable insights and solve complex problems in businesses.
 
-## 🚀 O que estou aprendendo
-- **Machine Learning**: Modelagem preditiva, avaliação de modelos e otimização de algoritmos.
-- **Engenharia de Dados**: Processamento e análise de grandes volumes de dados, pipelines de dados e integração de fontes.
-- **Estatística e Álgebra Linear**: Aplicação de métodos matemáticos para análise e otimização de modelos.
+## 🚀 What I’m Learning
+- **Machine Learning**: Predictive modeling, model evaluation, and algorithm optimization.
+- **Data Engineering**: Processing and analyzing large volumes of data, data pipelines, and source integration.
+- **Statistics and Linear Algebra**: Aplicação de métodos matemáticos para análise e otimização de modelos.
 - **Cloud Computing**: AWS, GCP e Azure, com foco na construção de soluções escaláveis e eficientes.
 
 ##🛠️ Tecnologias que uso
 - **Linguagens**: Python, SQL, R
 - **Frameworks**: TensorFlow, Scikit-Learn, Keras, PyTorch
-- **Ferramentas**: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- **Tools**: Pandas, NumPy, Matplotlib, Seaborn, Power BI
 - **Cloud**: AWS, GCP, Azure
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB
 
 ## Projects 🐾
 - [MUSE TF -> PT](https://github.com/dayyass/muse_tf2pt) - convert Multilingual Universal Sentence Encoder from TensorFlow to PyTorch and ONNX
@@ -30,12 +30,12 @@ Sou Cientista de Dados em Formação, com foco em **Machine Learning**, **Engenh
 - [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
 - [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 - **LinkedIn**: [José Rafael de Andrade Neto](https://www.linkedin.com/in/josé-rafael-de-andrade-neto)
 - **E-mail**: rafael.andrade.neto@gmail.com
 
-### 🌱 **Objetivos Futuros**
-- Aprofundar meu conhecimento em Ciência de Dados, com foco em Big Data, Cloud Computing e Machine Learning avançado.
-- Contribuir para projetos open-source e colaborar com uma comunidade global de profissionais de tecnologia, visando o desenvolvimento contínuo da área.
+### 🌱 **Future Goals**
+- Deepen my knowledge in Data Science, focusing on Big Data, Cloud Computing, and advanced Machine Learning.
+- Contribute to open-source projects and collaborate with a global community of technology professionals, aiming for continuous development in the field.
 
-> “A ciência de dados é a ponte entre a tecnologia e o futuro.” 🚀
+> “Data science is the bridge between technology and the future.” 🚀
