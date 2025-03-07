@@ -1,6 +1,6 @@
 # Hi, I’m Rafael Andrade 👋
 
-## I’m a Data Scientist in training, with a focus on Machine Learning, Data Engineering, and Data Analysis. I have experience with Python, Pandas, NumPy, Scikit-Learn, TensorFlow, and other advanced tools for data manipulation and analysis. I am committed to applying technical knowledge and innovative solutions to transform data into valuable insights and solve complex problems in businesses.
+I’m a Data Scientist in training, with a focus on Machine Learning, Data Engineering, and Data Analysis. I have experience with Python, Pandas, NumPy, Scikit-Learn, TensorFlow, and other advanced tools for data manipulation and analysis. I am committed to applying technical knowledge and innovative solutions to transform data into valuable insights and solve complex problems in businesses.
 
 ## 🚀 What I’m Learning
 - **Machine Learning**: Predictive modeling, model evaluation, and algorithm optimization.
